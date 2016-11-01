@@ -3,11 +3,11 @@ LiuD series lessons
 
 Lesson 1
 
-    https://github.com/Bookaa/LiuD_Lesson_1
+    [https://github.com/Bookaa/LiuD_Lesson_1][1]
 
 Lesson 2
 
-    https://github.com/Bookaa/LiuD_Lesson_2
+    [https://github.com/Bookaa/LiuD_Lesson_2][2]
 
 Lesson 3
 
@@ -49,3 +49,6 @@ Lesson 12
 
     https://github.com/Bookaa/LiuD_Lesson_12
 
+
+[1]: https://github.com/Bookaa/LiuD_Lesson_1
+[2]: https://github.com/Bookaa/LiuD_Lesson_2
